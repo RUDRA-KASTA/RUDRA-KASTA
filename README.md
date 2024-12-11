@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Kasta</h1>
 
+![Description](https://github.com/RUDRA-KASTA/RUDRA-KASTA/blob/main/xyz.jpg)
+
 <h3 align="center">A passionate and dedicated engineer specializing in Embedded Systems and Robotics, with hands-on experience in bare-metal device driver development and firmware development for STM32 microcontrollers.</h3>
 
 - 💬 Ask me about **Firmware and Device Driver Development on STM32 Microcontrollers**
